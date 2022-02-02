@@ -17,7 +17,8 @@
 > status
 
 >### In this one I put into practice the acquired knowledge and played around a bit, looking for a different effect on the screen.
-
+> link :https://capture-page02.netlify.app
+> 
 ![Captura de Tela (12)](https://user-images.githubusercontent.com/90284411/151642288-5b363b43-2be6-4d0a-8d08-14eed7a1d581.png)
 
 
