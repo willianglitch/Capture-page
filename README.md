@@ -6,6 +6,7 @@
 
 ## Página-Captura
 #### Is linked to receive subscriptions in MailChimp
+> link : https://luxury-crumble-126481.netlify.app/
 
 ![Captura de Tela (13)](https://user-images.githubusercontent.com/90284411/151641516-7b43f9d8-fc8d-4e8e-a495-5c20bb7c1bf4.png)
  <hr>
